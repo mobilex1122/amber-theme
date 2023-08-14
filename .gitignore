@@ -1,1 +1,7 @@
 build/
+
+common/gtk-2.0/assets-dark/*.png
+common/gtk-2.0/assets-light/*.png
+
+common/gtk-3.0/assets/*.png
+common/gtk-4.0/assets/*.png
